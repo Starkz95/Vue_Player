@@ -15,6 +15,7 @@
 
 <style scoped="scoped">
   .home {
+    margin-top: 30vh;
     position: relative;
     z-index: 0;
     display: flex;
